@@ -439,12 +439,12 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Desbloquear Contato";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartilhar Imagem da Internet";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pagamento";
-"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Captura de Tela Inteira";
 
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
-"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
-"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Isso incluirá apenas as mensagens mais recentes da posição atual, você deve rolar para cima até sua posição inicial e depois capturar a tela.";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Captura de Tela";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Salvo com Sucesso";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Imagem Não Criada";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Salvar fotos do perfil";
 "SAVE_PROFILE_PHOTOS_DESC" = "Pressione e segure as fotos do perfil para salvá-las após o WhatsApp remover o botão de salvar";
